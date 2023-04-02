@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="B9XtmiDqYJHPnyc0SV0A" name="Page-1">
-        <mxGraphModel dx="987" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1234" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -413,23 +413,32 @@
                         <mxPoint x="1744" y="1990" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="141" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="139" target="140">
+                <mxCell id="141" value="" style="edgeStyle=none;html=1;" parent="1" source="139" target="140" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="139" value="&lt;font color=&quot;#000000&quot;&gt;inset-0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#99CCFF;" vertex="1" parent="1">
+                <mxCell id="139" value="&lt;font color=&quot;#000000&quot;&gt;inset-0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#99CCFF;" parent="1" vertex="1">
                     <mxGeometry x="41" y="2400" width="199" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="140" value="&lt;font color=&quot;#000000&quot;&gt;top: 0, left:0; right:0, bottom:0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#99CCFF;" vertex="1" parent="1">
+                <mxCell id="140" value="&lt;font color=&quot;#000000&quot;&gt;top: 0, left:0; right:0, bottom:0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#99CCFF;" parent="1" vertex="1">
                     <mxGeometry x="320" y="2400" width="199" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="144" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="142" target="143">
+                <mxCell id="144" value="" style="edgeStyle=none;html=1;" parent="1" source="142" target="143" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="142" value="&lt;font color=&quot;#000000&quot;&gt;possition: 'absolute'&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#99CCFF;" vertex="1" parent="1">
+                <mxCell id="142" value="&lt;font color=&quot;#000000&quot;&gt;possition: 'absolute'&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#99CCFF;" parent="1" vertex="1">
                     <mxGeometry x="41" y="2480" width="199" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="143" value="&lt;font color=&quot;#000000&quot;&gt;Puts the element&lt;br&gt;- at the top left corner&lt;br&gt;- of the closest parent&lt;br&gt;- with a position other than 'static'&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#99CCFF;" vertex="1" parent="1">
+                <mxCell id="143" value="&lt;font color=&quot;#000000&quot;&gt;Puts the element&lt;br&gt;- at the top left corner&lt;br&gt;- of the closest parent&lt;br&gt;- with a position other than 'static'&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#99CCFF;" parent="1" vertex="1">
                     <mxGeometry x="320" y="2460" width="199" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="145" value="&lt;font color=&quot;#000000&quot;&gt;Sorting in JS&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFFF99;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="2660" width="280" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="147" value="&lt;font color=&quot;#000000&quot;&gt;Converts elements in the array to strings, &lt;br&gt;then sorts those&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#99CCFF;" parent="1" vertex="1">
+                    <mxGeometry x="39.5" y="2700" width="280.5" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="148" value="&lt;font color=&quot;#000000&quot;&gt;compare string: using &lt;i&gt;localeCompare&lt;/i&gt; function&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFFF99;" vertex="1" parent="1">
+                    <mxGeometry x="339" y="2700" width="281" height="30" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
