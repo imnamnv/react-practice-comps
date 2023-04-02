@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="B9XtmiDqYJHPnyc0SV0A" name="Page-1">
-        <mxGraphModel dx="1452" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="987" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -190,70 +190,70 @@
                 <mxCell id="64" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" parent="1" vertex="1">
                     <mxGeometry x="1240" y="1120" width="447" height="66" as="geometry"/>
                 </mxCell>
-                <mxCell id="72" value="&lt;font color=&quot;#000000&quot;&gt;When the browser loads a new HTML document,&lt;br&gt;&amp;nbsp;all existing JS variables and code is dumped&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#99CCFF;" vertex="1" parent="1">
+                <mxCell id="72" value="&lt;font color=&quot;#000000&quot;&gt;When the browser loads a new HTML document,&lt;br&gt;&amp;nbsp;all existing JS variables and code is dumped&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#99CCFF;" parent="1" vertex="1">
                     <mxGeometry x="30" y="1320" width="309" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="73" value="Standard Browser Behavior" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+                <mxCell id="73" value="Standard Browser Behavior" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" parent="1" vertex="1">
                     <mxGeometry x="39.5" y="1280" width="290" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="78" value="" style="edgeStyle=none;html=1;fontSize=21;" edge="1" parent="1" source="74" target="76">
+                <mxCell id="78" value="" style="edgeStyle=none;html=1;fontSize=21;" parent="1" source="74" target="76" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="74" value="&lt;font color=&quot;#000000&quot;&gt;Doesn't really matter for a traditional HTML-focused app&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFFF99;" vertex="1" parent="1">
+                <mxCell id="74" value="&lt;font color=&quot;#000000&quot;&gt;Doesn't really matter for a traditional HTML-focused app&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFFF99;" parent="1" vertex="1">
                     <mxGeometry x="69.5" y="1400" width="230" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="79" value="" style="edgeStyle=none;html=1;fontSize=21;" edge="1" parent="1" source="75" target="77">
+                <mxCell id="79" value="" style="edgeStyle=none;html=1;fontSize=21;" parent="1" source="75" target="77" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="75" value="&lt;font color=&quot;#000000&quot;&gt;Kind of bad for a React app&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFFF99;" vertex="1" parent="1">
+                <mxCell id="75" value="&lt;font color=&quot;#000000&quot;&gt;Kind of bad for a React app&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFFF99;" parent="1" vertex="1">
                     <mxGeometry x="69.5" y="1470" width="230" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="76" value="&lt;font color=&quot;#000000&quot;&gt;Load 1 request for simple html file&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFFF99;" vertex="1" parent="1">
+                <mxCell id="76" value="&lt;font color=&quot;#000000&quot;&gt;Load 1 request for simple html file&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFFF99;" parent="1" vertex="1">
                     <mxGeometry x="339" y="1400" width="180" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="77" value="&lt;font color=&quot;#000000&quot;&gt;Load 3 request for simple page. (index.html, bundle.js, call endpoint to load data)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFFF99;" vertex="1" parent="1">
+                <mxCell id="77" value="&lt;font color=&quot;#000000&quot;&gt;Load 3 request for simple page. (index.html, bundle.js, call endpoint to load data)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFFF99;" parent="1" vertex="1">
                     <mxGeometry x="339" y="1470" width="180" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="87" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="81" target="84">
+                <mxCell id="87" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#000000;" parent="1" source="81" target="84" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="141" y="1780"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="88" style="edgeStyle=none;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="81" target="86">
+                <mxCell id="88" style="edgeStyle=none;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=20;fontColor=#000000;" parent="1" source="81" target="86" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="141" y="1840"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="81" value="&lt;font color=&quot;#000000&quot;&gt;User types out address in&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#99CCFF;" vertex="1" parent="1">
+                <mxCell id="81" value="&lt;font color=&quot;#000000&quot;&gt;User types out address in&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#99CCFF;" parent="1" vertex="1">
                     <mxGeometry x="41" y="1680" width="199" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="82" value="How Navigation Works with React" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+                <mxCell id="82" value="How Navigation Works with React" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
                     <mxGeometry x="30" y="1635" width="330" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="100" value="" style="edgeStyle=none;html=1;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="84" target="99">
+                <mxCell id="100" value="" style="edgeStyle=none;html=1;fontSize=20;fontColor=#000000;" parent="1" source="84" target="99" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="84" value="&lt;font color=&quot;#000000&quot;&gt;always send back the index.html file&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFFF99;" vertex="1" parent="1">
+                <mxCell id="84" value="&lt;font color=&quot;#000000&quot;&gt;always send back the index.html file&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFFF99;" parent="1" vertex="1">
                     <mxGeometry x="199" y="1760" width="320" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="102" value="" style="edgeStyle=none;html=1;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="86" target="101">
+                <mxCell id="102" value="" style="edgeStyle=none;html=1;fontSize=20;fontColor=#000000;" parent="1" source="86" target="101" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="86" value="&lt;font color=&quot;#000000&quot;&gt;When app loads up, look at address bar and use it to decide what content to show&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFFF99;" vertex="1" parent="1">
+                <mxCell id="86" value="&lt;font color=&quot;#000000&quot;&gt;When app loads up, look at address bar and use it to decide what content to show&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFFF99;" parent="1" vertex="1">
                     <mxGeometry x="199" y="1810" width="320" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="89" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="91" target="92">
+                <mxCell id="89" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#000000;" parent="1" source="91" target="92" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="141" y="1980"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="90" style="edgeStyle=none;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=20;fontColor=#000000;" edge="1" parent="1" target="93">
+                <mxCell id="90" style="edgeStyle=none;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=20;fontColor=#000000;" parent="1" target="93" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="141" y="2040"/>
@@ -261,157 +261,175 @@
                         <mxPoint x="141" y="1920" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="96" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="91" target="94">
+                <mxCell id="96" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#000000;" parent="1" source="91" target="94" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="140" y="2080"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="97" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="91" target="95">
+                <mxCell id="97" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#000000;" parent="1" source="91" target="95" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="141" y="2130"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="91" value="&lt;font color=&quot;#000000&quot;&gt;User clicks a link or&lt;br&gt;&amp;nbsp;presses 'back button'&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#99CCFF;" vertex="1" parent="1">
+                <mxCell id="91" value="&lt;font color=&quot;#000000&quot;&gt;User clicks a link or&lt;br&gt;&amp;nbsp;presses 'back button'&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#99CCFF;" parent="1" vertex="1">
                     <mxGeometry x="41" y="1880" width="199" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="110" value="" style="edgeStyle=none;html=1;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="92" target="104">
+                <mxCell id="110" value="" style="edgeStyle=none;html=1;fontSize=20;fontColor=#000000;" parent="1" source="92" target="104" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="92" value="&lt;font color=&quot;#000000&quot;&gt;Stop the browser's default page-switching behavior!&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFFF99;" vertex="1" parent="1">
+                <mxCell id="92" value="&lt;font color=&quot;#000000&quot;&gt;Stop the browser's default page-switching behavior!&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFFF99;" parent="1" vertex="1">
                     <mxGeometry x="199" y="1960" width="320" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="93" value="&lt;font color=&quot;#000000&quot;&gt;Figure out where the user was trying to go&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFFF99;" vertex="1" parent="1">
+                <mxCell id="93" value="&lt;font color=&quot;#000000&quot;&gt;Figure out where the user was trying to go&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFFF99;" parent="1" vertex="1">
                     <mxGeometry x="199" y="2010" width="320" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="109" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="94" target="105">
+                <mxCell id="109" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#000000;" parent="1" source="94" target="105" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="94" value="&lt;font color=&quot;#000000&quot;&gt;Update content on the screen to trick the user into thinking they swapped pages&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFFF99;" vertex="1" parent="1">
+                <mxCell id="94" value="&lt;font color=&quot;#000000&quot;&gt;Update content on the screen to trick the user into thinking they swapped pages&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFFF99;" parent="1" vertex="1">
                     <mxGeometry x="199" y="2060" width="320" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="107" value="" style="edgeStyle=none;html=1;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="95" target="106">
+                <mxCell id="107" value="" style="edgeStyle=none;html=1;fontSize=20;fontColor=#000000;" parent="1" source="95" target="106" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="95" value="&lt;font color=&quot;#000000&quot;&gt;Update address bar to trick the user into thinking they swapped pages&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFFF99;" vertex="1" parent="1">
+                <mxCell id="95" value="&lt;font color=&quot;#000000&quot;&gt;Update address bar to trick the user into thinking they swapped pages&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFFF99;" parent="1" vertex="1">
                     <mxGeometry x="199" y="2110" width="320" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="98" value="&lt;font color=&quot;#000000&quot;&gt;JS environment no longer being reset with navigation&lt;br&gt;Note: this only works if the state is not defined in the component&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFFF99;" vertex="1" parent="1">
+                <mxCell id="98" value="&lt;font color=&quot;#000000&quot;&gt;JS environment no longer being reset with navigation&lt;br&gt;Note: this only works if the state is not defined in the component&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFFF99;" parent="1" vertex="1">
                     <mxGeometry x="39.5" y="2180" width="270" height="90" as="geometry"/>
                 </mxCell>
-                <mxCell id="99" value="&lt;font color=&quot;#000000&quot;&gt;Create React App already does this&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#CCFF99;" vertex="1" parent="1">
+                <mxCell id="99" value="&lt;font color=&quot;#000000&quot;&gt;Create React App already does this&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#CCFF99;" parent="1" vertex="1">
                     <mxGeometry x="570" y="1760" width="390" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="112" value="" style="edgeStyle=none;html=1;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="101" target="111">
+                <mxCell id="112" value="" style="edgeStyle=none;html=1;fontSize=20;fontColor=#000000;" parent="1" source="101" target="111" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="101" value="&lt;font color=&quot;#000000&quot;&gt;How do we look at the address bar?&lt;br&gt;What part of it do we care about?&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFB366;" vertex="1" parent="1">
+                <mxCell id="101" value="&lt;font color=&quot;#000000&quot;&gt;How do we look at the address bar?&lt;br&gt;What part of it do we care about?&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFB366;" parent="1" vertex="1">
                     <mxGeometry x="570" y="1810" width="390" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="118" value="" style="edgeStyle=none;html=1;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="104" target="117">
+                <mxCell id="118" value="" style="edgeStyle=none;html=1;fontSize=20;fontColor=#000000;" parent="1" source="104" target="117" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="765" y="1920"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="120" style="edgeStyle=none;html=1;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="104" target="119">
+                <mxCell id="120" style="edgeStyle=none;html=1;fontSize=20;fontColor=#000000;" parent="1" source="104" target="119" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="104" value="&lt;font color=&quot;#000000&quot;&gt;How do we detect a user clicking a link? Clicking a back button?&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFB366;" vertex="1" parent="1">
+                <mxCell id="104" value="&lt;font color=&quot;#000000&quot;&gt;How do we detect a user clicking a link? Clicking a back button?&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFB366;" parent="1" vertex="1">
                     <mxGeometry x="570" y="1960" width="390" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="105" value="&lt;font color=&quot;#000000&quot;&gt;How do we update content on the screen?&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFB366;" vertex="1" parent="1">
+                <mxCell id="105" value="&lt;font color=&quot;#000000&quot;&gt;How do we update content on the screen?&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFB366;" parent="1" vertex="1">
                     <mxGeometry x="570" y="2060" width="390" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="115" style="edgeStyle=none;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="106" target="113">
+                <mxCell id="115" style="edgeStyle=none;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=20;fontColor=#000000;" parent="1" source="106" target="113" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="765" y="2210"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="116" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="106" target="114">
+                <mxCell id="116" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#000000;" parent="1" source="106" target="114" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="765" y="2260"/>
+                            <mxPoint x="765" y="2270"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="106" value="&lt;font color=&quot;#000000&quot;&gt;How do we update the address bar?&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFB366;" vertex="1" parent="1">
+                <mxCell id="106" value="&lt;font color=&quot;#000000&quot;&gt;How do we update the address bar?&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFB366;" parent="1" vertex="1">
                     <mxGeometry x="570" y="2110" width="390" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="111" value="&lt;font color=&quot;#000000&quot;&gt;We only care about the &quot;path&quot; part of the URL&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFB366;" vertex="1" parent="1">
+                <mxCell id="111" value="&lt;font color=&quot;#000000&quot;&gt;We only care about the &quot;path&quot; part of the URL&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFB366;" parent="1" vertex="1">
                     <mxGeometry x="1010" y="1810" width="390" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="113" value="&lt;font color=&quot;#000000&quot;&gt;window.location = &quot;&quot;&lt;br&gt;Causes a full page refresh&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFFF99;" vertex="1" parent="1">
+                <mxCell id="113" value="&lt;font color=&quot;#000000&quot;&gt;window.location = &quot;&quot;&lt;br&gt;Causes a full page refresh&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFFF99;" parent="1" vertex="1">
                     <mxGeometry x="810" y="2180" width="320" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="114" value="&lt;font color=&quot;#000000&quot;&gt;window.history.pushState...)&lt;br&gt;Updates the address bar but doesn't cause a refresh&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFFF99;" vertex="1" parent="1">
-                    <mxGeometry x="810" y="2240" width="320" height="40" as="geometry"/>
+                <mxCell id="114" value="&lt;font color=&quot;#000000&quot;&gt;window.history.pushState...)&lt;br&gt;- Updates the address bar but doesn't cause a refresh&lt;br&gt;- Listen popstate event&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFFF99;" parent="1" vertex="1">
+                    <mxGeometry x="810" y="2240" width="320" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="117" value="&lt;font color=&quot;#000000&quot;&gt;event.preventDefault() when user click a link&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFFF99;" vertex="1" parent="1">
+                <mxCell id="117" value="&lt;font color=&quot;#000000&quot;&gt;event.preventDefault() when user click a link&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFFF99;" parent="1" vertex="1">
                     <mxGeometry x="1240" y="1900" width="320" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="119" value="&lt;font color=&quot;#000000&quot;&gt;User Clicks forward or back?&lt;br&gt;Window emits a 'popstate' event if the user current url was added by 'pushState'&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFFF99;" vertex="1" parent="1">
+                <mxCell id="119" value="&lt;font color=&quot;#000000&quot;&gt;User Clicks forward or back?&lt;br&gt;Window emits a 'popstate' event if the user current url was added by 'pushState'&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFFF99;" parent="1" vertex="1">
                     <mxGeometry x="1240" y="1950" width="390" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="121" value="&lt;font color=&quot;#000000&quot;&gt;Browser History&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#99CCFF;" vertex="1" parent="1">
+                <mxCell id="121" value="&lt;font color=&quot;#000000&quot;&gt;Browser History&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#99CCFF;" parent="1" vertex="1">
                     <mxGeometry x="1760" y="2010" width="180" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="122" value="&lt;font color=&quot;#000000&quot;&gt;localhost:3000&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#CC99FF;" vertex="1" parent="1">
+                <mxCell id="122" value="&lt;font color=&quot;#000000&quot;&gt;localhost:3000&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#CC99FF;" parent="1" vertex="1">
                     <mxGeometry x="1760" y="1965" width="180" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="123" value="&lt;font color=&quot;#000000&quot;&gt;localhost:3000/accordion&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#CC99FF;" vertex="1" parent="1">
+                <mxCell id="123" value="&lt;font color=&quot;#000000&quot;&gt;localhost:3000/accordion&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#CC99FF;" parent="1" vertex="1">
                     <mxGeometry x="1760" y="1920" width="180" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="124" value="&lt;font color=&quot;#000000&quot;&gt;localhost:3000/a1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFFF99;" vertex="1" parent="1">
+                <mxCell id="124" value="&lt;font color=&quot;#000000&quot;&gt;localhost:3000/a1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFFF99;" parent="1" vertex="1">
                     <mxGeometry x="1760" y="1870" width="180" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="125" value="&lt;font color=&quot;#000000&quot;&gt;localhost:3000/a2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFFF99;" vertex="1" parent="1">
+                <mxCell id="125" value="&lt;font color=&quot;#000000&quot;&gt;localhost:3000/a2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FFFF99;" parent="1" vertex="1">
                     <mxGeometry x="1760" y="1820" width="180" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="127" value="Added with pushState" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="127" value="Added with pushState" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="1940" y="1817.5" width="90" height="35" as="geometry"/>
                 </mxCell>
-                <mxCell id="128" value="Added with pushState" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="128" value="Added with pushState" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="1940" y="1867.5" width="90" height="35" as="geometry"/>
                 </mxCell>
-                <mxCell id="129" value="I typed url" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="129" value="I typed url" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="1940" y="1920" width="90" height="35" as="geometry"/>
                 </mxCell>
-                <mxCell id="130" value="I typed url" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="130" value="I typed url" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="1940" y="1965" width="90" height="35" as="geometry"/>
                 </mxCell>
-                <mxCell id="131" value="No full refresh" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="131" value="No full refresh" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="1640" y="1845" width="90" height="35" as="geometry"/>
                 </mxCell>
-                <mxCell id="133" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=20;fontColor=#000000;" edge="1" parent="1">
+                <mxCell id="133" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=20;fontColor=#000000;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1740" y="1842.5" as="sourcePoint"/>
                         <mxPoint x="1740" y="1882.5" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="135" value="No full refresh" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="135" value="No full refresh" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="1644.41" y="1902.5" width="90" height="35" as="geometry"/>
                 </mxCell>
-                <mxCell id="136" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=20;fontColor=#000000;" edge="1" parent="1">
+                <mxCell id="136" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=20;fontColor=#000000;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1744.41" y="1900" as="sourcePoint"/>
                         <mxPoint x="1744.41" y="1940" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="137" value="Full refresh" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="137" value="Full refresh" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="1650" y="1952.5" width="90" height="35" as="geometry"/>
                 </mxCell>
-                <mxCell id="138" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=20;fontColor=#000000;" edge="1" parent="1">
+                <mxCell id="138" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=20;fontColor=#000000;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1744" y="1950" as="sourcePoint"/>
                         <mxPoint x="1744" y="1990" as="targetPoint"/>
                     </mxGeometry>
+                </mxCell>
+                <mxCell id="141" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="139" target="140">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="139" value="&lt;font color=&quot;#000000&quot;&gt;inset-0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#99CCFF;" vertex="1" parent="1">
+                    <mxGeometry x="41" y="2400" width="199" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="140" value="&lt;font color=&quot;#000000&quot;&gt;top: 0, left:0; right:0, bottom:0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#99CCFF;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="2400" width="199" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="144" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="142" target="143">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="142" value="&lt;font color=&quot;#000000&quot;&gt;possition: 'absolute'&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#99CCFF;" vertex="1" parent="1">
+                    <mxGeometry x="41" y="2480" width="199" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="143" value="&lt;font color=&quot;#000000&quot;&gt;Puts the element&lt;br&gt;- at the top left corner&lt;br&gt;- of the closest parent&lt;br&gt;- with a position other than 'static'&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#99CCFF;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="2460" width="199" height="80" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
