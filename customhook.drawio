@@ -1,0 +1,106 @@
+<mxfile host="65bd71144e">
+    <diagram id="OEoKmbj07cUtO3Te2w0E" name="Page-1">
+        <mxGraphModel dx="2468" dy="1318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="40" y="90" width="370" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Make a function called 'useSomething'" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="2">
+                    <mxGeometry x="30" width="340" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#99CCFF;" vertex="1" parent="2">
+                    <mxGeometry width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Hook Creation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="40" width="370" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="40" y="130" width="370" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Find all the non-JSX expressions that refer to 1-2 related pieces of state" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="6">
+                    <mxGeometry x="30" width="340" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="2" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#99CCFF;" vertex="1" parent="6">
+                    <mxGeometry width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="40" y="170" width="370" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Cut them all out, paste them into 'useSomething'" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="9">
+                    <mxGeometry x="30" width="340" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="3" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#99CCFF;" vertex="1" parent="9">
+                    <mxGeometry width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="40" y="210" width="370" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Find 'not defined' errors in your component" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="12">
+                    <mxGeometry x="30" width="340" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="4" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#99CCFF;" vertex="1" parent="12">
+                    <mxGeometry width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="40" y="250" width="370" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="In your hook, return an object that contains the variables the components needs" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="15">
+                    <mxGeometry x="30" width="340" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="5" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#99CCFF;" vertex="1" parent="15">
+                    <mxGeometry width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="40" y="290" width="370" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="In the component, call your hook. Destructure the properties the component needs" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="18">
+                    <mxGeometry x="30" width="340" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="" style="edgeStyle=none;html=1;fontSize=20;" edge="1" parent="18" source="20" target="19">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="6" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#99CCFF;" vertex="1" parent="18">
+                    <mxGeometry width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="40" y="330" width="370" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="Find 'not defined' errors in the hook. Pass the missing variables in as arguments to the hook" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="22">
+                    <mxGeometry x="30" width="340" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="" style="edgeStyle=none;html=1;fontSize=20;" edge="1" parent="22" source="25" target="23">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="7" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#99CCFF;" vertex="1" parent="22">
+                    <mxGeometry width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="40" y="370" width="370" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="Rename the hook to something more meaningful" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="26">
+                    <mxGeometry x="30" width="340" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="" style="edgeStyle=none;html=1;fontSize=20;" edge="1" parent="26" source="29" target="27">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="8" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#99CCFF;" vertex="1" parent="26">
+                    <mxGeometry width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="40" y="410" width="370" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="Rename returned properties to something more descriptive" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="30">
+                    <mxGeometry x="30" width="340" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="" style="edgeStyle=none;html=1;fontSize=20;" edge="1" parent="30" source="33" target="31">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="9" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#99CCFF;" vertex="1" parent="30">
+                    <mxGeometry width="30" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
